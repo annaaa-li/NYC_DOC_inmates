@@ -10,6 +10,8 @@ This first dashboard gives an overview on the current inmate population in NYC j
 
 The second dashboard provides more detail on gang affiliated inmates and allows for visual comparison between the general population and inmates who are gang affiliated.
 
+Note: Times admitted is calculated using the NYC DOC inmate admission data from January 2014 - July 2026. Additional admissions prior to January 2014 and admissions to other facilities are not included.
+
 ## Data used:
 ### Inmate admissions data and inmate discharge data can be downloaded from the City of New York Open Data website
 * [inmate admissions](https://data.cityofnewyork.us/Public-Safety/Inmate-Admissions/6teu-xtgp/about_data)
