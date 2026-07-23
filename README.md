@@ -2,11 +2,13 @@
 Analysis of NYC Department of Corrections current inmates
 
 
-## NYC DOC Inmates Dashboard
 ![NYC DOC Inmates Dashboard](NYC_DOC_Inmates_Dashboard.jpg)
 
-## NYC DOC Gang Affiliated Inmates Dashboard
+This first dashboard gives an overview on the current inmate population in NYC jails.
+
 ![NYC DOC Inmates Dashboard](NYC_DOC_Gang_Affiliated_Inmates_Dashboard.jpg)
+
+The second dashboard provides more detail on gang affiliated inmates and allows for visual comparison between the general population and inmates who are gang affiliated.
 
 ## Data used:
 ### Inmate admissions data and inmate discharge data can be downloaded from the City of New York Open Data website
